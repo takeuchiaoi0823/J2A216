@@ -228,6 +228,12 @@ Works
   border: 1px dashed #fff;
   box-shadow: 0px 0px 0px 2px #293b6a;
   /* box-shadowで外枠を */
+  
+}
+
+.btn-denim:hover{
+  opacity: 0.6;
+  border: solid;
 }
 
 .btn-box {
