@@ -1,0 +1,14 @@
+th{
+    padding: 10px;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+td{
+    text-align: left;
+}
+caption{
+    text-align: center;
+}
+.border{
+    border-width: thin;
+}
